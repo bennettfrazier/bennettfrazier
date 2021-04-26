@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I love data visualization, design, branding, and budgeting.
+
+📫 How to reach me: bennett@designnn.co
+
 <!--
 **bennettfrazier/bennettfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
