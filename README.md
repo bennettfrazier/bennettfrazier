@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello!
 
-I love data visualization, design, branding, and budgeting.
+I love data visualization, design, branding, marketing, and budgeting.
 
-📫 How to reach me: bennett@designnn.co
+Currently I work at [utiliVisor](https://www.utilivisor.com/) as the Marketing Director, managing the website, marketing, & design. I also am helping build out our next-gen of our web apps, tools, and mobile applications.
+
+Formerly I worked at [Crescendo Collective](https://www.crescendocollective.com/) as a Senior Frontend Developer working on a variety of websites, web apps, and CMS platforms. I also ran my own branding company, [Designnn](https://designnn.co/) from 2020 - 2022.
 
 <!--
 **bennettfrazier/bennettfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
