@@ -1,22 +1,11 @@
-### Hello!
+### Hi, I'm Bennett Frazier!
 
-I love data visualization, design, branding, marketing, and budgeting.
+I am looking for a new full-time opportunities, and would love to connect. Please check out my [LinkedIn](https://www.linkedin.com/in/frazierbennett/).
 
-Currently I work at [utiliVisor](https://www.utilivisor.com/) as the Marketing Director, managing the website, marketing, & design. I also am helping build out our next-gen of our web apps, tools, and mobile applications.
+I’m a creative at heart with 10+ years of experience across brand, web, marketing, and frontend. I love working closely with teams to turn ideas into clear, usable, and thoughtful experiences, and have helped build mobile apps, enterprise websites, and tools across a variety of CMS platforms, frameworks, and languages. 
 
-Formerly I worked at [Crescendo Collective](https://www.crescendocollective.com/) as a Senior Frontend Developer working on a variety of websites, web apps, and CMS platforms. I also ran my own branding company, [Designnn](https://designnn.co/) from 2020 - 2022.
+Previously, I worked at [utiliVisor](https://www.utilivisor.com/) from 2022 - 2025 as the Marketing Director, managing the website, marketing, design, & various frontend development initiatives.
 
-<!--
-**bennettfrazier/bennettfrazier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Before that, I founded a digital marketing agency, [Designnn](https://designnn.co/) from 2020 - 2022, providing web development, marketing, and branding services before being hired in-house.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also worked at [Crescendo Collective](https://www.crescendocollective.com/) from 2017 - 2020 as a Senior Frontend Developer, where I worked with enterprise clients in financial services, retail, and food & bev industries building scalable websites.
